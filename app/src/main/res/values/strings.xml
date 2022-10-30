@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoopingList</string>
+    <string name="main_title">ainda não existem frases cadastradas</string>
+    <string name="add_btn_desc">add new shopping list cart</string>
+    <string name="item_name">Nome do item</string>
+    <string name="quantity">Quantidade</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add_new_item">Adicionar</string>
+    <string name="error_on_item">Informe o item</string>
+    <string name="error_on_quantity">informe a quantidade!</string>
+    <string name="success_clear">sucesso ao limpar a lista de items</string>
+</resources>

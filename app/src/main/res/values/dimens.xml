@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_margin">16dp</dimen>
+    <dimen name="intern_margin">8dp</dimen>
+    <dimen name="lower_margin">4dp</dimen>
+    <dimen name="elevation_card_view">8dp</dimen>
+    <dimen name="main_padding">8dp</dimen>
+</resources>
